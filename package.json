@@ -1,0 +1,23 @@
+{
+  "name": "sibayu-news-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BayuRidhoAlkhifli/sibayu-news-parser.git"
+  },
+  "author": "bayu ridho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BayuRidhoAlkhifli/sibayu-news-parser/issues"
+  },
+  "homepage": "https://github.com/BayuRidhoAlkhifli/sibayu-news-parser#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "indo-news-scraper": "^1.4.0"
+  }
+}
